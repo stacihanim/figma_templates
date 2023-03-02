@@ -424,4 +424,19 @@ footer {
   max-width: 1903px;
   height: 145px;
   background-color: #324b29;
+}
+
+@media (max-width: 1152px) {
+  h1 {
+    font-size: 120px;
+  }
+  .card {
+    width: 300px;
+  }
+  .about_block {
+    width: 1000px;
+  }
+  .about_card p {
+    font-size: 14px;
+  }
 }/*# sourceMappingURL=style.css.map */
